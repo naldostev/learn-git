@@ -37,8 +37,11 @@ Note: Dengan berada di branch update1, semua perubahan baik itu penambahan file 
 - git branch -D <nama_branch>: menghapus branch secara langsung tampa kondisi apapun
 - git merge update1: menggabungkan branch master dengan branch update1
 
+•	git remote add origin : menghubungkan local repository dengan ke remote repository (github)
 
+•	git push origin main : menggirimkan perubahan ke master branch tujuan lewat remote repository yang terhubung.
 
+•	git pull origin main : menggabungkan semua perubahan yang ada di remote ke repository lokal
 	
 
 
